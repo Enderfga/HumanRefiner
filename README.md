@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to the official code repository for the [paper](https://arxiv.org/abs/2407.06937) "HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance."
+Welcome to the official repository for the [paper](https://arxiv.org/abs/2407.06937) "HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance."
 
 In this project, we introduce AbHuman, the first large-scale benchmark focused on anatomical anomalies. The benchmark consists of 56K synthesized human images, each annotated with 147K human anomalies in 18 different categories. Based on this, we developed HumanRefiner, a novel plug-and-play method for coarse-to-fine refinement of human anomalies.
 
